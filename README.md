@@ -18,9 +18,6 @@
     Sobre mi 😃</h2>
   
 </div>
-
-<h2>Sobre mi 😃</h2>
-
 <!--Intro start-->
 
 <p align="left">
