@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋  soy Christian Franco / GUFRA Mexico ✨ </h1> 
 
-<p align="left">
+<p align="center">
   <a href="https://www.youtube.com/@guframexico" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@soiracis"  /></a>
 <a href="https://www.tiktok.com/@soiracis" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="@soiracis" /></a>
 <a href="https://linkedin.com/in/soiracis" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="soiracis"/></a>
