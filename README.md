@@ -13,6 +13,23 @@
          alt="azzar" height="30"/></a>
   </p>
 <br>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
+
+- :school: I am a `LICENCIADO EN INFORMTICA` egresado del [INSTITUTO TECNOLOGICO DE APIZACO](https://www.apizaco.tecnm.mx/)
+- :technologist: 🧑‍💻 Actualmente continuo estudiando y aprendo desde mi propia cuenta y de forma. `autodidacta`.
+- :computer: PEQUEÑO CREADOR DE DESARROLLO DE SISTEMAS 😵.
+-  :nerd_face: Siempre `aprendiendo cosas nuevas`.
+- 💻 unos cuántos años de experiencia en el proceso de desarrollo de software.
+-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+📫 Contacto: **crisfranco3@hotmail.com**
+<br>
+
+
 <div class="markdown-heading" dir="auto">
   <h2 class="heading-element" dir="auto">
     <themed-picture data-catalyst-inline="true" data-catalyst="">
