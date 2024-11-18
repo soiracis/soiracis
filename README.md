@@ -12,15 +12,17 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 LICENCIADO EN INFORMÁTICA
+🎓 LICENCIADO EN INFORMÁTICA 
 
-🎥 PEQUEÑO CREADOR DE DESARROLLO DE SISTEMAS que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+🧑‍💻 Actualmente continuo estudiando y aprendo desde mi propia cuenta y de forma autodidacta.
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+🎥 PEQUEÑO CREADOR DE DESARROLLO DE SISTEMAS 😵
+
+💻 unos cuántos años de experiencia en el proceso de desarrollo de software
 
 📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 
-📫 Contacto: **crisfranco3@gmail.com**
+📫 Contacto: **crisfranco3@hotmail.com**
 <!--Intro end-->
   </p>
 <br>
