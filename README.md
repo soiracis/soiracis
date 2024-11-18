@@ -8,7 +8,11 @@
 <a href = "mailto:crisfranco3@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
   </p>
 <br>
-<h2>Sobre mi 😃</h2>
+<picture>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="30px" style="visibility:visible;max-width:100%;">
+  <h2>Sobre mi 😃</h2>
+</picture>
+
 <!--Intro start-->
 
 <p align="left">
