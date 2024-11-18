@@ -10,8 +10,8 @@
 <br>
 <picture>
   <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="30px" style="visibility:visible;max-width:100%;">
-  <h2>Sobre mi 😃</h2>
-</picture>
+  
+</picture><h2>Sobre mi 😃</h2>
 
 <!--Intro start-->
 
