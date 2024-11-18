@@ -14,9 +14,12 @@
   </p>
 <br>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi 😃
+## <picture>
+<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>
+</picture> Sobre mi 😃
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> 
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - :school: Soy `LICENCIADO EN INFORMTICA` egresado del [INSTITUTO TECNOLOGICO DE APIZACO](https://www.apizaco.tecnm.mx/)
 - :technologist: Actualmente continuo estudiando y aprendiendo desde mi propia cuenta y de forma. `autodidacta`.
