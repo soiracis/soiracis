@@ -14,7 +14,7 @@
   </p>
 <br>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi 😃
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -25,33 +25,7 @@
 - 💻📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
 - 📫 Contacto: **crisfranco3@hotmail.com**
 <br>
-
-<div class="markdown-heading" dir="auto">
-  <h2 class="heading-element" dir="auto">
-    <themed-picture data-catalyst-inline="true" data-catalyst="">
-      <picture>
-        <img src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/about_me.gif?raw=true" width="30px" style="visibility:visible;max-width:100%;">
-      </picture>
-    </themed-picture> 
-    Sobre mi 😃</h2>
-  
-</div>
-<!--Intro start-->
-
-<p align="left">
-🎓 LICENCIADO EN INFORMÁTICA 
-
-🧑‍💻 Actualmente continuo estudiando y aprendo desde mi propia cuenta y de forma autodidacta.
-
-🎥 PEQUEÑO CREADOR DE DESARROLLO DE SISTEMAS 😵
-
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software
-
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
-
-📫 Contacto: **crisfranco3@hotmail.com**
 <!--Intro end-->
-  </p>
 
   <!-- Connect with me -->
 <!--h2 without bottom border-->
